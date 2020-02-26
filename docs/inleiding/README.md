@@ -15,7 +15,7 @@ Maak een account aan op het All Things Talk platform.
 
 ![Aanmaken account](./assets/SignUp.png)
 
-![Aanmaken account](./assets/SingnUp2.png)
+![Aanmaken account](./assets/SignUp2.png)
 
 # Aanmaken ground
 
