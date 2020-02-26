@@ -13,9 +13,9 @@ De All Things Talk maker account is beperkt tot:
 
 Maak een account aan op het All Things Talk platform.
 
-![Aanmaken account](./assets/SingUp.png)
+![Aanmaken account](./assets/SignUp.png)
 
-![Aanmaken account](./assets/SingUp2.png)
+![Aanmaken account](./assets/SingnUp2.png)
 
 # Aanmaken ground
 
