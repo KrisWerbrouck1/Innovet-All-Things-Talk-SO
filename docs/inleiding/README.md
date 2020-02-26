@@ -1,20 +1,32 @@
 # Inleiding
 
-All Things talk is een Vlaams IOT bedrijf dat hardware ontwikkeld en verkoopt. Eveneens stelt All Things Talk een IOT platform ter beschikking. Dit platform wordt door grote bedrijven gebruikt. Voor de maker community en het onderwijs is er een versie van het IOT platform beschikbaar die beperkt is tot "1 ground".
+All Things talk is een Vlaams IOT bedrijf dat hardware ontwikkeld en verkoopt. Eveneens stelt All Things Talk een IOT platform ter beschikking. Dit platform is zowel beschikbaar voor bedrijven, het onderwijs en de maker community. Er zijn echter beperkingen aan de gratis versie voor het onderwijs en de maker community. Er kan geopteerd worden om een betalende versie aan te kopen tegen de prijs van ???/maand.
 
 Het is mogelijk om via verschillende devices (ESP8266, Raspberry pi, je eigen smartphone, ...) het IOT platform van All Things talk te benaderen. In deze cursus beperken we ons tot de ESP8266 microcontroller.
 
-De All Things Talk maker account is beperkt tot 
+De All Things Talk maker account is beperkt tot:
 * 1 groud. (Wat houd deze beperking in?)
 * Aantal devices per groud?
 * Hoeveelheid data die kan doorgezonden worden? (per uur, minuut,...)
 
+# Aanmaken account
+
+Maak een account aan op het All Things Talk platform.
+
+![Aanmaken account](./assets/SingUp.png)
+
+![Aanmaken account](./assets/SingUp2.png)
+
+# Aanmaken ground
 
 Maak een ground aan.
 
 ![Aanmaken ground](./assets/ground.png)
 
 In de ground kunnen verschillende devices toegevoegd worden. Maak een Device aan.
+
+
+## Aanmaken device
 
 ![Aanmaken device](./assets/AddDevice.png)
 
@@ -30,9 +42,7 @@ Geef het device een passende naam
 
 ![device name](./assets/deviceName.png)
 
-
-
-## Arduino code
+# Arduino code
 
 ```cpp
 #include <AllThingsTalk_WiFi.h>       // Load (include) the AllThingsTalk WiFi SDK - Read more about it on https://gitub.com/allthingstalk/arduino-wifi-sdk
