@@ -9,7 +9,7 @@ De All Things Talk maker account is beperkt tot:
 * Aantal devices per groud?
 * Hoeveelheid data die kan doorgezonden worden? (per uur, minuut,...)
 
-# Aanmaken account
+## Aanmaken account
 
 Maak een account aan op het All Things Talk platform.
 
@@ -17,16 +17,16 @@ Maak een account aan op het All Things Talk platform.
 
 ![Aanmaken account](./assets/SignUp2.png)
 
-# Aanmaken ground
+## Aanmaken ground
 
 Maak een ground aan.
 
 ![Aanmaken ground](./assets/ground.png)
 
-In de ground kunnen verschillende devices toegevoegd worden. Maak een Device aan.
-
 
 ## Aanmaken device
+
+In de ground kunnen verschillende devices toegevoegd worden. Maak een Device aan.
 
 ![Aanmaken device](./assets/AddDevice.png)
 
@@ -42,7 +42,7 @@ Geef het device een passende naam
 
 ![device name](./assets/deviceName.png)
 
-# Arduino code
+## Arduino code
 
 ```cpp
 #include <AllThingsTalk_WiFi.h>       // Load (include) the AllThingsTalk WiFi SDK - Read more about it on https://gitub.com/allthingstalk/arduino-wifi-sdk
@@ -95,4 +95,42 @@ Pas volgende delen aan:
 ![autentication](./assets/Authentication2.png)
 
 * Your_Device_Token naar het device token dat eveneens te vinden is onder Autentication.
+
+De data afkomstig van ieder device kan weergeven worden.
+
+![Weergave data](./assets/dataWeergave.png)
+
+
+
+## Visueel weergeven info
+
+Via pinboards kan info in verschillende vormen en afkomstig van verschillende devices weergegeven worden.
+
+Kies PINBOARDS en vervolgens +NEW PINBOARD.
+
+![new pinboard](./assets/pinBoards.png)
+
+Klik op ARRANGE PINBOARD
+
+![arrange pinboard](./assets/pinBoards2.png)
+
+Kies New pin.
+
+![new pin](./assets/pinBoards3.png)
+
+Stel de pin in.
+
+![instellingen pin](./assets/pinBoards4.png)
+
+Kies het device en de asset
+
+![Keuze device en asset](./assets/pinBoards5.png)
+
+Bewaar de pin
+
+![Keuze device en asset](./assets/pinBoards7.png)
+
+Voeg eventueel extra pins toe.
+
+Via SHARE is het mogelijk de PIN beschikbaar te stellen.
 
