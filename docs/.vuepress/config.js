@@ -7,7 +7,12 @@ module.exports = {
       { text: 'Company', link: 'https://vti.sint-rembert.be/' },
       { text: 'License', link: '/LICENSE.md' },
     ],
-    sidebar: [['/', 'Home'], ['/inleiding/', 'Inleiding']],
+    sidebar: [
+      ['/', 'Home'],
+      ['/inleiding/', 'Inleiding'],
+      ['/analoge-waarde/', 'Analoge waarde'],
+      ['/actuator/', 'actuator']
+    ],
     repo: 'https://github.com/KrisWerbrouck1/Innovet-All-Things-Talk-SO.git',
     docsDir: 'docs',
     docsBranch: 'master'
