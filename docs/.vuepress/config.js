@@ -11,7 +11,8 @@ module.exports = {
       ['/', 'Home'],
       ['/inleiding/', 'Inleiding'],
       ['/analoge-waarde/', 'Analoge waarde'],
-      ['/actuator/', 'actuator']
+      ['/actuator/', 'actuator'],
+      ['/componentenlijst/', 'Componentenlijst']
     ],
     repo: 'https://github.com/KrisWerbrouck1/Innovet-All-Things-Talk-SO.git',
     docsDir: 'docs',

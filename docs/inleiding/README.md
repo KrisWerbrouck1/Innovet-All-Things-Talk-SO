@@ -4,7 +4,7 @@ All Things Talk [https://www.allthingstalk.com](https://www.allthingstalk.com/) 
 
  Het IOT-platform van All Things Talk is zowel beschikbaar voor bedrijven, het onderwijs en de maker community. Er zijn echter beperkingen aan de gratis versie voor het onderwijs en de maker community.
 
-[Een voorbeeld is het IOT-platform voor de haven van Antwerpen](https://cdn2.hubspot.net/hubfs/4124978/Port%20of%20Antwerp%20Cust_FULL_HD_1.mp4)
+[IOT-platform voor de haven van Antwerpen](https://cdn2.hubspot.net/hubfs/4124978/Port%20of%20Antwerp%20Cust_FULL_HD_1.mp4)
 
 Het is mogelijk om via verschillende devices (ESP8266, Raspberry pi, je eigen smartphone, ...) het IOT-platform van All Things Talk te benaderen. In deze cursus beperken we ons tot de ESP8266 microcontroller.
 
