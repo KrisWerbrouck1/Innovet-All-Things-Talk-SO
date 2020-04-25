@@ -57,3 +57,6 @@ Voeg de AllThingsTalk bibliotheek toe.
 
 ![bibliotheek toevoegen](./assets/Bibliotheek2.png)
 
+Voeg de ArduinoJson by Benoit Blanchon bibliotheek toe.
+
+![bibliotheek toevoegen](./assets/Bibliotheek3.png)
